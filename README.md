@@ -6,5 +6,5 @@ Bienvenidos a mi repositorio
 
 Soy Fernanda, Lic. en Informática y Técnica en Desarrollo de Software por la UADE.
 
-Me apasiona la programación y crear aplicaciones
+Me apasiona la programación y crear aplicaciones, subo pequeños tutoriales de documentación https://github.com/stars/Fer3141/lists/libros-documentaci%C3%B3n
 </div>
