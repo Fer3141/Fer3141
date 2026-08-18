@@ -2,8 +2,8 @@
 
 ![banner](221797.gif)
 
-<h3>Bienvenidos a mi repositorio</h3>
+Bienvenidos a mi repositorio
 
-<h4>Soy Fernanda, Lic. en Informática</h4>
+Soy Fernanda, Lic. en Informática y Técnica en Desarrollo de Software por la UADE.
 
 </div>
