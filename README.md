@@ -4,7 +4,7 @@
 
 Bienvenidos a mi repositorio
 
-Soy Fernanda, Lic. en Informática y Técnica en Desarrollo de Software por la UADE.
+Soy Fernanda, Lic. en Informática y Técnica Universitaria en Desarrollo de Software por la UADE.
 
 </div>
 
